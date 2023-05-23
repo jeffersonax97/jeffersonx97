@@ -11,11 +11,12 @@
   srcset="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true&count_" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true&count_" />
 </picture>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonx97&layout=compact&langs=16&theme=tokyonight"/>
 <div>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonx97&layout=compact&langs=16&theme=tokyonight"/>
+
 </div>
 
 <!--Icones das linguagens-->
