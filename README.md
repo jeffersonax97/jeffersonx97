@@ -1,23 +1,20 @@
-## Olá! Eu sou o Jefferson Xavier
+## Olá! Eu sou o Jefferson Xavier, estudante de TADS e estou em busca de estágio.
 - 🌱 Estudando Javascript | C | Cloud | Css
 - 📫 Contrate-me no email: Jeffersonax97@gmail.com
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
+ height="180em" srcset="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"/>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true&count_" />
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true&count_" />
 </picture>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonx97&layout=compact&langs=16&theme=tokyonight"/>
-<div>
-
-
-</div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonx97&layout=compact&langs=16&theme=tokyonight"/>
+   
+  
+  <!-- height="180em" / align="center" -->
 
 <!--Icones das linguagens-->
 <div style="display: inline_block"><br>
@@ -30,6 +27,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+##
 <!-- redes sociais-->
 <div> 
 <!--  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
@@ -38,5 +36,4 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/jefferson-xavier-4938a0260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
