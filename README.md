@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Jefferson Xavier, estudante de TADS e estou em busca de estágio.
-- 🌱 Estudando Javascript | C | Cloud | Css
+- 🌱 Estudando Javascript | PHP | C | Cloud | Css
 <!--- 📫 Contrate-me no email: Jeffersonax97@gmail.com-->
 
 <picture>
