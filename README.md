@@ -3,13 +3,13 @@
 <!--- 📫 Contrate-me no email: Jeffersonax97@gmail.com-->
 
 <picture>
-<source
- <!-- height="180em" srcset="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"/> -->
+<!--<source
+  height="180em" srcset="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"/>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true&count_" />
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=jeffersonx97&show_icons=true&count_" />-->
 </picture>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonx97&layout=compact&langs=16&theme=tokyonight"/>
    
